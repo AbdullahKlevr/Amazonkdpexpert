@@ -25,9 +25,9 @@ if (isset($_SERVER['HTTPS'])) {
 <link rel="icon" href="favicon.png" type="image/x-icon" />
 
 <!-- new -->
-<link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.10.0/css/all.css" >
-<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.4/css/all.css" >
-<link rel="stylesheet" type="text/css" href="assets/css/style.css">
+<link class="myLazy loaded" rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.10.0/css/all.css" >
+<link class="myLazy loaded" rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.4/css/all.css" >
+<link class="myLazy loaded" rel="stylesheet" type="text/css" href="assets/css/style.css">
 <link rel="stylesheet" type="text/css" href="assets/css/style-web.css">
 <link rel="stylesheet" type="text/css" href="assets/css/responsive.css">
 
@@ -75,3 +75,20 @@ window.Tawk_API.onChatMessageAgent = function(message){
 
 </script>
 <!--End of Tawk.to Script-->
+<script>
+      var isloading = true;
+
+      function removeLoading() {
+         if (isloading) {
+            $("head").append(`  `);
+
+            $('.myLazy').each(function () {
+               $(this).attr("src", $(this).attr('data-src'))
+            })
+            isloading = false
+         }
+      }
+      $(document).mousemove(removeLoading)
+      $(document).on("touchmove", removeLoading)
+      setInterval(removeLoading, 5000);
+   </script>
