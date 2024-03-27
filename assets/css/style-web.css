@@ -1084,10 +1084,10 @@ footer i {
     display: block;
 }
 .banner_news{
-    background-image: url(../videos/6.jpg);
-    background-size: cover;
-    background-position: center;
-    background-repeat: no-repeat;
+    background-image: url(../videos/6.jpg)!important;
+    background-size: cover!important;
+    background-position: center!important;
+    background-repeat: no-repeat!important;
 }
 .banner_news ul.menu-dot{
     margin: 10px 0;
