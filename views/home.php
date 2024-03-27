@@ -17,9 +17,9 @@
 	<!--	<source src="assets/videos/banner-video-new.mp4" type="video/mp4"> -->
 	<!--</video>-->
 	
-	    <video class="lazy" poster="assets/images/book.webp" autoplay="" loop="" muted="" playsinline="" preload="metadata" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="assets/videos/banner-video-new.mp4">
+	    <!-- <video class="lazy" poster="assets/images/book.webp" autoplay="" loop="" muted="" playsinline="" preload="metadata" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="assets/videos/old-books.webp">
 	        
-	    </video>
+	    </video> -->
 
 	
 	<div class="container" data-aos="fade-up" data-aos-duration="1000">
@@ -730,7 +730,7 @@
 <!--   <div class="container">-->
 <!--       <div class="row">-->
 <!--           <div class="col-md-12">-->
-<!--               <p>Disclaimer: amazon kdp expert  is an independent entity (not connected in any way with Amazon.com) helping self-reliant authors with book publishing and marketing solutions.</p>-->
+<!--               <p>Disclosure: amazon kdp expert  is an independent entity (not connected in any way with Amazon.com) helping self-reliant authors with book publishing and marketing solutions.</p>-->
            
 <!--           </div>-->
 <!--       </div>-->
@@ -738,8 +738,8 @@
 <!--</div>-->
 
 <div class="gdg">
-<div class="cookie-consent-banner__description"><strong>Disclaimer:</strong>
-Amazon kdp Expert brand is owned by saibina corp
+<div class="cookie-consent-banner__description"><strong>Disclosure:</strong>
+Amazon kdp Expert is a strategic partner of Saibina Corp
 </div>
 </div>
 

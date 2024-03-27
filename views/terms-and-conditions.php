@@ -376,7 +376,7 @@
 <!--   <div class="container">-->
 <!--       <div class="row">-->
 <!--           <div class="col-md-12">-->
-<!--               <p>Disclaimer: amazon kdp expert  is an independent entity (not connected in any way with Amazon.com) helping self-reliant authors with book publishing and marketing solutions.</p>-->
+<!--               <p>Disclosure: amazon kdp expert  is an independent entity (not connected in any way with Amazon.com) helping self-reliant authors with book publishing and marketing solutions.</p>-->
            
 <!--           </div>-->
 <!--       </div>-->
@@ -384,8 +384,8 @@
 <!--</div>-->
 
 <div class="gdg">
-<div class="cookie-consent-banner__description"><strong>Disclaimer:</strong>
-Amazon kdp Expert brand is owned by saibina corp
+<div class="cookie-consent-banner__description"><strong>Disclosure:</strong>
+Amazon kdp Expert is a strategic partner of Saibina Corp
 </div>
 </div>
 
