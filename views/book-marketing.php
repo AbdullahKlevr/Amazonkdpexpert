@@ -393,7 +393,7 @@
             </div>
             
             <!--<h3>Good people, but slow process</h3>-->
-            <p>Amazon Publications Xpert is a great place to get your book written. They have experienced writers on board who actually walk extra miles to fulfil your expectations. I have worked with them and got truly impressed.</p>
+            <p>Amazon kdp Expert is a great place to get your book written. They have experienced writers on board who actually walk extra miles to fulfil your expectations. I have worked with them and got truly impressed.</p>
           </div>
         </div>
         <div class="item">
@@ -405,7 +405,7 @@
             </div>
           
             <!--<h3>Publishing My Book</h3>-->
-            <p>I can highly recommend Amazon Publications Xpert as a fantastic company with really helpful people that deliver great results on time. I could not have achieved this with out them. Thank you Amazon Publications Xpert.</p>
+            <p>I can highly recommend Amazon kdp Expert as a fantastic company with really helpful people that deliver great results on time. I could not have achieved this with out them. Thank you Amazon kdp Expert.</p>
           </div>
         </div>
         <div class="item">
@@ -429,7 +429,7 @@
             </div>
            
             <!--<h3>Do your Research , i wish i would had</h3>-->
-            <p>Amazon Publications Xpert has been wonderful in editing my book. They are working in a very timely and responsive way. I really like working with them and have already recommended them to several other people. A BIG THUMBS UP.</p>
+            <p>Amazon kdp Expert has been wonderful in editing my book. They are working in a very timely and responsive way. I really like working with them and have already recommended them to several other people. A BIG THUMBS UP.</p>
           </div>
         </div>
         <div class="item">
@@ -441,7 +441,7 @@
             </div>
             
             <!--<h3>It was amazing</h3>-->
-            <p>When I was struggling to publish my first book, I had no idea of the difficulties involved. But when I got in touch with Amazon Publications Xpert, my book was publish within few period with their expertise. Highly Recommended</p>
+            <p>When I was struggling to publish my first book, I had no idea of the difficulties involved. But when I got in touch with Amazon kdp Expert, my book was publish within few period with their expertise. Highly Recommended</p>
           </div>
         </div>
         <div class="item">
@@ -453,7 +453,7 @@
             </div>
             
             <!--<h3>The Providers were very skilled with…</h3>-->
-            <p>Amazon Publications Xpert, I have made a friend for life. It's one thing to call or feel like a writer, but if you want all the bells and whistles in a completed writing. Trust me call these people.Thanks alot for making my dream come true</p>
+            <p>Amazon kdp Expert, I have made a friend for life. It's one thing to call or feel like a writer, but if you want all the bells and whistles in a completed writing. Trust me call these people.Thanks alot for making my dream come true</p>
           </div>
         </div>
         <!--<div class="item">-->
