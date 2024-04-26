@@ -1647,3 +1647,146 @@ ul.menu {
         flex-direction: column;
     }
 }
+section.from_bottom {
+    /* background-image: url(../images/gredient-BG-1-jpg.webp); */
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    padding: 80px 0;
+    background-color: #58382b;
+}
+.form_inner h2 {
+    color: #fff;
+    font-size: 55px;
+    line-height: 65px;
+    margin: 0 0 10px 0;
+}
+.form_inner p {
+    color: #fff;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 35px;
+    margin: 20px 0 20px 0 !important;
+}
+.form_inner ul {
+    margin: 40px 0 0 0 !important;
+    display: flex;
+    align-items: baseline;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+.form_inner ul li {
+    flex: 0 0 50%;
+    margin: 10px 0 5px 0;
+    font-size: 18px;
+    font-weight: 400;
+    color: #fff;
+}
+svg:not(:host).svg-inline--fa, svg:not(:root).svg-inline--fa {
+    overflow: visible;
+    box-sizing: content-box;
+}
+.form_inner ul li svg {
+    background: #f99039;
+    font-size: 13px;
+    padding: 2px;
+    border-radius: 50%;
+}
+.svg-inline--fa {
+    display: var(--fa-display, inline-block);
+    height: 1em;
+    overflow: visible;
+    vertical-align: -.125em;
+}
+
+
+
+.form_inner span {
+    display: flex;
+    align-items: center;
+    margin: 50px 0 0 0;
+}
+.form_inner span p {
+    margin: 0 30px 0 0 !important;
+    font-size: 24px;
+    font-weight: 600;
+}
+.form_inner p {
+    color: #fff;
+    font-size: 20px;
+    font-weight: 500;
+    margin: 20px 0 20px 0 !important;
+}
+.form_inner span button {
+    background: #fff;
+    color: #000;
+    width: 180px;
+    height: 50px;
+    border: 1px solid #fff;
+    font-weight: 600;
+    border-radius: 5px;
+}
+.btn-danger:hover {
+    color: #fff;
+    background-color: #f58947;
+    border-color: #f58947;
+}
+.bottom_form {
+    background: #000;
+    text-align: center;
+    padding: 30px 0;
+    width: 370px;
+    margin-left: auto;
+}
+.bottom_form h2 {
+    font-size: 30px;
+    font-weight: 600;
+    color: #fff;
+    font-family: 'Montserrat' !important;
+    margin: 0 0 20px 0;
+    line-height: 30px;
+}
+.bottom_form h3 {
+    background: #f58947;
+    width: 90%;
+    margin: auto;
+    border-radius: 10px;
+    height: 50px;
+    display: flex;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #fff;
+    font-size: 40px;
+    margin-bottom: 40px;
+}
+.bottom_form form input, .bottom_form form textarea {
+    width: 90%;
+    display: block;
+    height: 50px;
+    margin: auto;
+    margin-bottom: 25px;
+    border: 1px solid #fff;
+    background: transparent;
+    padding: 0 0 0 20px;
+    font-size: 16px;
+    font-weight: 400;
+    color: #fff;
+}
+.bottom_form form input[type="submit"] {
+    background: #f58947 !important;
+    font-weight: 600 !important;
+    font-size: 18px !important;
+    border-radius: 5px;
+}
+input[type="submit"] {
+    background: #f58947 !important;
+    border: none !important;
+    font-weight: 500;
+    padding: 0 !important;
+}
+.bottom_form form textarea {
+    height: 150px;
+    padding: 15px 0 0 20px;
+    font-family: 'Montserrat' !important;
+}
