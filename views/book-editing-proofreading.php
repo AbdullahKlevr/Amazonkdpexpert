@@ -701,43 +701,7 @@
 <script type="text/javascript" src="assets/js/functions.js"></script>
 
 
-<script>
-        // $.each($('.form-get-quote'),function(k,v){
-            // $(v).append('<input type="hidden" name="lead_url" value="'+JSON.stringify(window.location.href)+'">')
-        // })
-        $('.form-get-quote').on('submit' , function(e){
-        var obj = $(this);
-        e.preventDefault();
-        $("<input>", {type:"hidden",name: "quote[lead_url]", value: JSON.stringify(window.location.href) }).appendTo(obj);
-        var data = $(obj).serialize();
-         jQuery.ajax({
-                url: window.location.href.substring(0, window.location.href.lastIndexOf("/")+1) + "/sendmail",
-                type: "POST",
-                data: data,
-                async: false,  // Has to be false to be able to return response
-                dataType: "json",  // Has to be false to be able to return response
-                success: function(response) {
-                    if (response.status == 1) {
-                      window.location = 'https://amazonkdpexpert.com/thankyou';
-                    // alert('Thank You');
-                      obj.trigger("reset"); 
-                    }
-                    else{
-                      return false;
-                    }
-                    
-                },
-                beforeSend: function()
-                {
-                    // Loader.show();
-                }
-            }); 
-            
-            return false;
-    });
-         
-      </script>
-      
+
       
 
 
