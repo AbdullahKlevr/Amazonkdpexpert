@@ -677,11 +677,7 @@
 <!--   </div>-->
 <!--</div>-->
 
-<div class="gdg">
-<div class="cookie-consent-banner__description"><strong>Disclosure:</strong>
-Amazon kdp Expert is a strategic partner of Saibina Corp
-</div>
-</div>
+
 
 </footer>
 
