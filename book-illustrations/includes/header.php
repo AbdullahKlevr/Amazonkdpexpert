@@ -6,7 +6,7 @@
             <div class="row align-items-center">
                 <div class="col-sm-3  col-8 text-left">
                     <a href="./" class="logo" aria-label="logo">
-                        <img src="assets/images/logo.webp" alt="">
+                        <img src="book-illustrations/assets/images/logo.webp" alt="">
                     </a>
                 </div>
                 <div class="col-sm-9 col-4  text-right">
