@@ -26,7 +26,7 @@
                     </div>
                     <div class="col-lg-6">
                         <div class="ban-img">
-                            <img src="assets/images/banner/ban.webp" alt="">
+                            <img src="amazon-publishing/assets/images/banner/ban.webp" alt="">
                         </div>
                     </div>
                 </div>
@@ -159,14 +159,14 @@
             <div class="row g-4">
                 <div class="col-lg-12">
                     <div class="portfolio-slider ">
-                        <img src="assets/images/portfolio/1.webp" alt="" loading="lazy" width="100px" height="100px">
-                        <img src="assets/images/portfolio/2.webp" alt="" loading="lazy" width="100px" height="100px">
-                        <img src="assets/images/portfolio/3.webp" alt="" loading="lazy" width="100px" height="100px">
-                        <img src="assets/images/portfolio/4.webp" alt="" loading="lazy" width="100px" height="100px">
-                        <img src="assets/images/portfolio/5.webp" alt="" loading="lazy" width="100px" height="100px">
-                        <img src="assets/images/portfolio/6.webp" alt="" loading="lazy" width="100px" height="100px">
-                        <img src="assets/images/portfolio/7.webp" alt="" loading="lazy" width="100px" height="100px">
-                        <img src="assets/images/portfolio/8.webp" alt="" loading="lazy" width="100px" height="100px">
+                        <img src="amazon-publishing/assets/images/portfolio/1.webp" alt="" loading="lazy" width="100px" height="100px">
+                        <img src="amazon-publishing/assets/images/portfolio/2.webp" alt="" loading="lazy" width="100px" height="100px">
+                        <img src="amazon-publishing/assets/images/portfolio/3.webp" alt="" loading="lazy" width="100px" height="100px">
+                        <img src="amazon-publishing/assets/images/portfolio/4.webp" alt="" loading="lazy" width="100px" height="100px">
+                        <img src="amazon-publishing/assets/images/portfolio/5.webp" alt="" loading="lazy" width="100px" height="100px">
+                        <img src="amazon-publishing/assets/images/portfolio/6.webp" alt="" loading="lazy" width="100px" height="100px">
+                        <img src="amazon-publishing/assets/images/portfolio/7.webp" alt="" loading="lazy" width="100px" height="100px">
+                        <img src="amazon-publishing/assets/images/portfolio/8.webp" alt="" loading="lazy" width="100px" height="100px">
                     </div>
 
                 </div>
@@ -311,7 +311,7 @@
                     <div class="testi-card">
                         <div class="upper">
                             <div class="client">
-                                <img src="assets/images/clients/f1.webp" alt="" loading="lazy" width="100px"
+                                <img src="amazon-publishing/assets/images/clients/f1.webp" alt="" loading="lazy" width="100px"
                                     height="100px">
                                 <div class="det">
                                     <span class="name">Sarah M.</span>
@@ -324,14 +324,14 @@
                                 support, I was able to see my book come to life and reach readers around the world.
                             </p>
                         </div>
-                        <img src="assets/images/trustpilot.webp" alt="" loading="lazy" width="100px" height="100px">
+                        <img src="amazon-publishing/assets/images/trustpilot.webp" alt="" loading="lazy" width="100px" height="100px">
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6">
                     <div class="testi-card">
                         <div class="upper">
                             <div class="client">
-                                <img src="assets/images/clients/m1.webp" alt="" loading="lazy" width="100px"
+                                <img src="amazon-publishing/assets/images/clients/m1.webp" alt="" loading="lazy" width="100px"
                                     height="100px">
                                 <div class="det">
                                     <span class="name">Michael D.</span>
@@ -344,14 +344,14 @@
                                 was a novice writer, but they really helped me through and through. Fantastic service!
                             </p>
                         </div>
-                        <img src="assets/images/trustpilot.webp" alt="" loading="lazy" width="100px" height="100px">
+                        <img src="amazon-publishing/assets/images/trustpilot.webp" alt="" loading="lazy" width="100px" height="100px">
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6">
                     <div class="testi-card">
                         <div class="upper">
                             <div class="client">
-                                <img src="assets/images/clients/f2.webp" alt="" loading="lazy" width="100px"
+                                <img src="amazon-publishing/assets/images/clients/f2.webp" alt="" loading="lazy" width="100px"
                                     height="100px">
                                 <div class="det">
                                     <span class="name">Emily P.</span>
@@ -365,14 +365,14 @@
                                 guidance.
                             </p>
                         </div>
-                        <img src="assets/images/trustpilot.webp" alt="" loading="lazy" width="100px" height="100px">
+                        <img src="amazon-publishing/assets/images/trustpilot.webp" alt="" loading="lazy" width="100px" height="100px">
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6">
                     <div class="testi-card">
                         <div class="upper">
                             <div class="client">
-                                <img src="assets/images/clients/m2.webp" alt="" loading="lazy" width="100px"
+                                <img src="amazon-publishing/assets/images/clients/m2.webp" alt="" loading="lazy" width="100px"
                                     height="100px">
                                 <div class="det">
                                     <span class="name">John W.</span>
@@ -385,14 +385,14 @@
                                 bestseller status on multiple platforms. I couldn't be happier with the outcome.
                             </p>
                         </div>
-                        <img src="assets/images/trustpilot.webp" alt="" loading="lazy" width="100px" height="100px">
+                        <img src="amazon-publishing/assets/images/trustpilot.webp" alt="" loading="lazy" width="100px" height="100px">
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6">
                     <div class="testi-card">
                         <div class="upper">
                             <div class="client">
-                                <img src="assets/images/clients/f3.webp" alt="" loading="lazy" width="100px"
+                                <img src="amazon-publishing/assets/images/clients/f3.webp" alt="" loading="lazy" width="100px"
                                     height="100px">
                                 <div class="det">
                                     <span class="name">Jessica H.</span>
@@ -406,14 +406,14 @@
                                 support.
                             </p>
                         </div>
-                        <img src="assets/images/trustpilot.webp" alt="" loading="lazy" width="100px" height="100px">
+                        <img src="amazon-publishing/assets/images/trustpilot.webp" alt="" loading="lazy" width="100px" height="100px">
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6">
                     <div class="testi-card">
                         <div class="upper">
                             <div class="client">
-                                <img src="assets/images/clients/m3.webp" alt="" loading="lazy" width="100px"
+                                <img src="amazon-publishing/assets/images/clients/m3.webp" alt="" loading="lazy" width="100px"
                                     height="100px">
                                 <div class="det">
                                     <span class="name">David S.</span>
@@ -426,7 +426,7 @@
                                 never imagined. I'm proud to be a published author with their help.
                             </p>
                         </div>
-                        <img src="assets/images/trustpilot.webp" alt="" loading="lazy" width="100px" height="100px">
+                        <img src="amazon-publishing/assets/images/trustpilot.webp" alt="" loading="lazy" width="100px" height="100px">
                     </div>
                 </div>
             </div>

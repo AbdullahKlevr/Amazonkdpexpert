@@ -11,8 +11,8 @@ if (isset($_SERVER['HTTPS'])) {
 ?>
 
 <base href="<?= $requesMet . '://' . $_SERVER['HTTP_HOST'] . '/' ?>">
-<link rel="stylesheet" href="assets/css/layout.css">
-<link rel="stylesheet" href="assets/css/style.css">
+<link rel="stylesheet" href="amazon-publishing/assets/css/layout.css">
+<link rel="stylesheet" href="amazon-publishing/assets/css/style.css">
 
 <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
 <link rel="icon" href="favicon.ico" type="image/x-icon">

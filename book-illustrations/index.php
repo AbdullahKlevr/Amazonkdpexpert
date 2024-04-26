@@ -105,69 +105,69 @@
                     <div class="col-lg-3 col-md-6">
                         <a data-fancybox="gallery" href="assets/images/portfolio/children/1.webp" tabindex="0"
                             class="portfolio">
-                            <img src="assets/images/portfolio/children/1.webp" alt="" loading="lazy" width="100px"
+                            <img src="book-illustrations/assets/images/portfolio/children/1.webp" alt="" loading="lazy" width="100px"
                                 height="100px">
                             <i class="fa fa-eye"></i>
                         </a>
                     </div>
                     <div class="col-lg-3 col-md-6">
-                        <a data-fancybox="gallery" href="assets/images/portfolio/children/2.webp" tabindex="0"
+                        <a data-fancybox="gallery" href="book-illustrations/assets/images/portfolio/children/2.webp" tabindex="0"
                             class="portfolio">
-                            <img src="assets/images/portfolio/children/2.webp" alt="" loading="lazy" width="100px"
-                                height="100px">
-                            <i class="fa fa-eye"></i>
-
-                        </a>
-                    </div>
-                    <div class="col-lg-3 col-md-6">
-                        <a data-fancybox="gallery" href="assets/images/portfolio/children/3.webp" tabindex="0"
-                            class="portfolio">
-                            <img src="assets/images/portfolio/children/3.webp" alt="" loading="lazy" width="100px"
+                            <img src="book-illustrations/assets/images/portfolio/children/2.webp" alt="" loading="lazy" width="100px"
                                 height="100px">
                             <i class="fa fa-eye"></i>
 
                         </a>
                     </div>
                     <div class="col-lg-3 col-md-6">
-                        <a data-fancybox="gallery" href="assets/images/portfolio/children/4.webp" tabindex="0"
+                        <a data-fancybox="gallery" href="book-illustrations/assets/images/portfolio/children/3.webp" tabindex="0"
                             class="portfolio">
-                            <img src="assets/images/portfolio/children/4.webp" alt="" loading="lazy" width="100px"
+                            <img src="book-illustrations/assets/images/portfolio/children/3.webp" alt="" loading="lazy" width="100px"
                                 height="100px">
                             <i class="fa fa-eye"></i>
 
                         </a>
                     </div>
                     <div class="col-lg-3 col-md-6">
-                        <a data-fancybox="gallery" href="assets/images/portfolio/children/5.webp" tabindex="0"
+                        <a data-fancybox="gallery" href="book-illustrations/assets/images/portfolio/children/4.webp" tabindex="0"
                             class="portfolio">
-                            <img src="assets/images/portfolio/children/5.webp" alt="" loading="lazy" width="100px"
+                            <img src="book-illustrations/assets/images/portfolio/children/4.webp" alt="" loading="lazy" width="100px"
                                 height="100px">
                             <i class="fa fa-eye"></i>
 
                         </a>
                     </div>
                     <div class="col-lg-3 col-md-6">
-                        <a data-fancybox="gallery" href="assets/images/portfolio/children/6.webp" tabindex="0"
+                        <a data-fancybox="gallery" href="book-illustrations/assets/images/portfolio/children/5.webp" tabindex="0"
                             class="portfolio">
-                            <img src="assets/images/portfolio/children/6.webp" alt="" loading="lazy" width="100px"
+                            <img src="book-illustrations/assets/images/portfolio/children/5.webp" alt="" loading="lazy" width="100px"
                                 height="100px">
                             <i class="fa fa-eye"></i>
 
                         </a>
                     </div>
                     <div class="col-lg-3 col-md-6">
-                        <a data-fancybox="gallery" href="assets/images/portfolio/children/7.webp" tabindex="0"
+                        <a data-fancybox="gallery" href="book-illustrations/assets/images/portfolio/children/6.webp" tabindex="0"
                             class="portfolio">
-                            <img src="assets/images/portfolio/children/7.webp" alt="" loading="lazy" width="100px"
+                            <img src="book-illustrations/assets/images/portfolio/children/6.webp" alt="" loading="lazy" width="100px"
                                 height="100px">
                             <i class="fa fa-eye"></i>
 
                         </a>
                     </div>
                     <div class="col-lg-3 col-md-6">
-                        <a data-fancybox="gallery" href="assets/images/portfolio/children/8.webp" tabindex="0"
+                        <a data-fancybox="gallery" href="book-illustrations/assets/images/portfolio/children/7.webp" tabindex="0"
                             class="portfolio">
-                            <img src="assets/images/portfolio/children/8.webp" alt="" loading="lazy" width="100px"
+                            <img src="book-illustrations/assets/images/portfolio/children/7.webp" alt="" loading="lazy" width="100px"
+                                height="100px">
+                            <i class="fa fa-eye"></i>
+
+                        </a>
+                    </div>
+                    <div class="col-lg-3 col-md-6">
+                        <a data-fancybox="gallery" href="book-illustrations/assets/images/portfolio/children/8.webp" tabindex="0"
+                            class="portfolio">
+                            <img src="book-illustrations/assets/images/portfolio/children/8.webp" alt="" loading="lazy" width="100px"
                                 height="100px">
                             <i class="fa fa-eye"></i>
 
@@ -175,36 +175,36 @@
                     </div>
 
                     <div class="col-lg-3 col-md-6">
-                        <a data-fancybox="gallery" href="assets/images/portfolio/children/9.webp" tabindex="0"
+                        <a data-fancybox="gallery" href="book-illustrations/assets/images/portfolio/children/9.webp" tabindex="0"
                             class="portfolio">
-                            <img src="assets/images/portfolio/children/9.webp" alt="" loading="lazy" width="100px"
+                            <img src="book-illustrations/assets/images/portfolio/children/9.webp" alt="" loading="lazy" width="100px"
                                 height="100px">
                             <i class="fa fa-eye"></i>
 
                         </a>
                     </div>
                     <div class="col-lg-3 col-md-6">
-                        <a data-fancybox="gallery" href="assets/images/portfolio/children/10.webp" tabindex="0"
+                        <a data-fancybox="gallery" href="book-illustrations/assets/images/portfolio/children/10.webp" tabindex="0"
                             class="portfolio">
-                            <img src="assets/images/portfolio/children/10.webp" alt="" loading="lazy" width="100px"
+                            <img src="book-illustrations/assets/images/portfolio/children/10.webp" alt="" loading="lazy" width="100px"
                                 height="100px">
                             <i class="fa fa-eye"></i>
 
                         </a>
                     </div>
                     <div class="col-lg-3 col-md-6">
-                        <a data-fancybox="gallery" href="assets/images/portfolio/children/11.webp" tabindex="0"
+                        <a data-fancybox="gallery" href="book-illustrations/assets/images/portfolio/children/11.webp" tabindex="0"
                             class="portfolio">
-                            <img src="assets/images/portfolio/children/11.webp" alt="" loading="lazy" width="100px"
+                            <img src="book-illustrations/assets/images/portfolio/children/11.webp" alt="" loading="lazy" width="100px"
                                 height="100px">
                             <i class="fa fa-eye"></i>
 
                         </a>
                     </div>
                     <div class="col-lg-3 col-md-6">
-                        <a data-fancybox="gallery" href="assets/images/portfolio/children/12.webp" tabindex="0"
+                        <a data-fancybox="gallery" href="book-illustrations/assets/images/portfolio/children/12.webp" tabindex="0"
                             class="portfolio">
-                            <img src="assets/images/portfolio/children/12.webp" alt="" loading="lazy" width="100px"
+                            <img src="book-illustrations/assets/images/portfolio/children/12.webp" alt="" loading="lazy" width="100px"
                                 height="100px">
                             <i class="fa fa-eye"></i>
 
@@ -215,108 +215,108 @@
             <div class="box-2 port-content">
                 <div class="row g-4">
                     <div class="col-lg-3 col-md-6">
-                        <a data-fancybox="gallery" href="assets/images/portfolio/comic/1.webp" tabindex="0"
+                        <a data-fancybox="gallery" href="book-illustrations/assets/images/portfolio/comic/1.webp" tabindex="0"
                             class="portfolio">
-                            <img src="assets/images/portfolio/comic/1.webp" alt="" loading="lazy" width="100px"
+                            <img src="book-illustrations/assets/images/portfolio/comic/1.webp" alt="" loading="lazy" width="100px"
                                 height="100px">
                             <i class="fa fa-eye"></i>
 
                         </a>
                     </div>
                     <div class="col-lg-3 col-md-6">
-                        <a data-fancybox="gallery" href="assets/images/portfolio/comic/2.webp" tabindex="0"
+                        <a data-fancybox="gallery" href="book-illustrations/assets/images/portfolio/comic/2.webp" tabindex="0"
                             class="portfolio">
-                            <img src="assets/images/portfolio/comic/2.webp" alt="" loading="lazy" width="100px"
+                            <img src="book-illustrations/assets/images/portfolio/comic/2.webp" alt="" loading="lazy" width="100px"
                                 height="100px">
                             <i class="fa fa-eye"></i>
 
                         </a>
                     </div>
                     <div class="col-lg-3 col-md-6">
-                        <a data-fancybox="gallery" href="assets/images/portfolio/comic/3.webp" tabindex="0"
+                        <a data-fancybox="gallery" href="book-illustrations/assets/images/portfolio/comic/3.webp" tabindex="0"
                             class="portfolio">
-                            <img src="assets/images/portfolio/comic/3.webp" alt="" loading="lazy" width="100px"
+                            <img src="book-illustrations/assets/images/portfolio/comic/3.webp" alt="" loading="lazy" width="100px"
                                 height="100px">
                             <i class="fa fa-eye"></i>
 
                         </a>
                     </div>
                     <div class="col-lg-3 col-md-6">
-                        <a data-fancybox="gallery" href="assets/images/portfolio/comic/4.webp" tabindex="0"
+                        <a data-fancybox="gallery" href="book-illustrations/assets/images/portfolio/comic/4.webp" tabindex="0"
                             class="portfolio">
-                            <img src="assets/images/portfolio/comic/4.webp" alt="" loading="lazy" width="100px"
+                            <img src="book-illustrations/assets/images/portfolio/comic/4.webp" alt="" loading="lazy" width="100px"
                                 height="100px">
                             <i class="fa fa-eye"></i>
 
                         </a>
                     </div>
                     <div class="col-lg-3 col-md-6">
-                        <a data-fancybox="gallery" href="assets/images/portfolio/comic/5.webp" tabindex="0"
+                        <a data-fancybox="gallery" href="book-illustrations/assets/images/portfolio/comic/5.webp" tabindex="0"
                             class="portfolio">
-                            <img src="assets/images/portfolio/comic/5.webp" alt="" loading="lazy" width="100px"
+                            <img src="book-illustrations/assets/images/portfolio/comic/5.webp" alt="" loading="lazy" width="100px"
                                 height="100px">
                             <i class="fa fa-eye"></i>
 
                         </a>
                     </div>
                     <div class="col-lg-3 col-md-6">
-                        <a data-fancybox="gallery" href="assets/images/portfolio/comic/6.webp" tabindex="0"
+                        <a data-fancybox="gallery" href="book-illustrations/assets/images/portfolio/comic/6.webp" tabindex="0"
                             class="portfolio">
-                            <img src="assets/images/portfolio/comic/6.webp" alt="" loading="lazy" width="100px"
+                            <img src="book-illustrations/assets/images/portfolio/comic/6.webp" alt="" loading="lazy" width="100px"
                                 height="100px">
                             <i class="fa fa-eye"></i>
 
                         </a>
                     </div>
                     <div class="col-lg-3 col-md-6">
-                        <a data-fancybox="gallery" href="assets/images/portfolio/comic/7.webp" tabindex="0"
+                        <a data-fancybox="gallery" href="book-illustrations/assets/images/portfolio/comic/7.webp" tabindex="0"
                             class="portfolio">
-                            <img src="assets/images/portfolio/comic/7.webp" alt="" loading="lazy" width="100px"
+                            <img src="book-illustrations/assets/images/portfolio/comic/7.webp" alt="" loading="lazy" width="100px"
                                 height="100px">
                             <i class="fa fa-eye"></i>
 
                         </a>
                     </div>
                     <div class="col-lg-3 col-md-6">
-                        <a data-fancybox="gallery" href="assets/images/portfolio/comic/8.webp" tabindex="0"
+                        <a data-fancybox="gallery" href="book-illustrations/assets/images/portfolio/comic/8.webp" tabindex="0"
                             class="portfolio">
-                            <img src="assets/images/portfolio/comic/8.webp" alt="" loading="lazy" width="100px"
+                            <img src="book-illustrations/assets/images/portfolio/comic/8.webp" alt="" loading="lazy" width="100px"
                                 height="100px">
                             <i class="fa fa-eye"></i>
 
                         </a>
                     </div>
                     <div class="col-lg-3 col-md-6">
-                        <a data-fancybox="gallery" href="assets/images/portfolio/comic/9.webp" tabindex="0"
+                        <a data-fancybox="gallery" href="book-illustrations/assets/images/portfolio/comic/9.webp" tabindex="0"
                             class="portfolio">
-                            <img src="assets/images/portfolio/comic/9.webp" alt="" loading="lazy" width="100px"
+                            <img src="book-illustrations/assets/images/portfolio/comic/9.webp" alt="" loading="lazy" width="100px"
                                 height="100px">
                             <i class="fa fa-eye"></i>
 
                         </a>
                     </div>
                     <div class="col-lg-3 col-md-6">
-                        <a data-fancybox="gallery" href="assets/images/portfolio/comic/10.webp" tabindex="0"
+                        <a data-fancybox="gallery" href="book-illustrations/assets/images/portfolio/comic/10.webp" tabindex="0"
                             class="portfolio">
-                            <img src="assets/images/portfolio/comic/10.webp" alt="" loading="lazy" width="100px"
+                            <img src="book-illustrations/assets/images/portfolio/comic/10.webp" alt="" loading="lazy" width="100px"
                                 height="100px">
                             <i class="fa fa-eye"></i>
 
                         </a>
                     </div>
                     <div class="col-lg-3 col-md-6">
-                        <a data-fancybox="gallery" href="assets/images/portfolio/comic/11.webp" tabindex="0"
+                        <a data-fancybox="gallery" href="book-illustrations/assets/images/portfolio/comic/11.webp" tabindex="0"
                             class="portfolio">
-                            <img src="assets/images/portfolio/comic/11.webp" alt="" loading="lazy" width="100px"
+                            <img src="book-illustrations/assets/images/portfolio/comic/11.webp" alt="" loading="lazy" width="100px"
                                 height="100px">
                             <i class="fa fa-eye"></i>
 
                         </a>
                     </div>
                     <div class="col-lg-3 col-md-6">
-                        <a data-fancybox="gallery" href="assets/images/portfolio/comic/12.webp" tabindex="0"
+                        <a data-fancybox="gallery" href="book-illustrations/assets/images/portfolio/comic/12.webp" tabindex="0"
                             class="portfolio">
-                            <img src="assets/images/portfolio/comic/12.webp" alt="" loading="lazy" width="100px"
+                            <img src="book-illustrations/assets/images/portfolio/comic/12.webp" alt="" loading="lazy" width="100px"
                                 height="100px">
                             <i class="fa fa-eye"></i>
 
@@ -328,108 +328,108 @@
             <div class="box-3 port-content">
                 <div class="row g-4">
                     <div class="col-lg-3 col-md-6">
-                        <a data-fancybox="gallery" href="assets/images/portfolio/illustration/1.webp" tabindex="0"
+                        <a data-fancybox="gallery" href="book-illustrations/assets/images/portfolio/illustration/1.webp" tabindex="0"
                             class="portfolio">
-                            <img src="assets/images/portfolio/illustration/1.webp" alt="" loading="lazy" width="100px"
+                            <img src="book-illustrations/assets/images/portfolio/illustration/1.webp" alt="" loading="lazy" width="100px"
                                 height="100px">
                             <i class="fa fa-eye"></i>
 
                         </a>
                     </div>
                     <div class="col-lg-3 col-md-6">
-                        <a data-fancybox="gallery" href="assets/images/portfolio/illustration/2.webp" tabindex="0"
+                        <a data-fancybox="gallery" href="book-illustrations/assets/images/portfolio/illustration/2.webp" tabindex="0"
                             class="portfolio">
-                            <img src="assets/images/portfolio/illustration/2.webp" alt="" loading="lazy" width="100px"
+                            <img src="book-illustrations/assets/images/portfolio/illustration/2.webp" alt="" loading="lazy" width="100px"
                                 height="100px">
                             <i class="fa fa-eye"></i>
 
                         </a>
                     </div>
                     <div class="col-lg-3 col-md-6">
-                        <a data-fancybox="gallery" href="assets/images/portfolio/illustration/3.webp" tabindex="0"
+                        <a data-fancybox="gallery" href="book-illustrations/assets/images/portfolio/illustration/3.webp" tabindex="0"
                             class="portfolio">
-                            <img src="assets/images/portfolio/illustration/3.webp" alt="" loading="lazy" width="100px"
+                            <img src="book-illustrations/assets/images/portfolio/illustration/3.webp" alt="" loading="lazy" width="100px"
                                 height="100px">
                             <i class="fa fa-eye"></i>
 
                         </a>
                     </div>
                     <div class="col-lg-3 col-md-6">
-                        <a data-fancybox="gallery" href="assets/images/portfolio/illustration/4.webp" tabindex="0"
+                        <a data-fancybox="gallery" href="book-illustrations/assets/images/portfolio/illustration/4.webp" tabindex="0"
                             class="portfolio">
-                            <img src="assets/images/portfolio/illustration/4.webp" alt="" loading="lazy" width="100px"
+                            <img src="book-illustrations/assets/images/portfolio/illustration/4.webp" alt="" loading="lazy" width="100px"
                                 height="100px">
                             <i class="fa fa-eye"></i>
 
                         </a>
                     </div>
                     <div class="col-lg-3 col-md-6">
-                        <a data-fancybox="gallery" href="assets/images/portfolio/illustration/5.webp" tabindex="0"
+                        <a data-fancybox="gallery" href="book-illustrations/assets/images/portfolio/illustration/5.webp" tabindex="0"
                             class="portfolio">
-                            <img src="assets/images/portfolio/illustration/5.webp" alt="" loading="lazy" width="100px"
+                            <img src="book-illustrations/assets/images/portfolio/illustration/5.webp" alt="" loading="lazy" width="100px"
                                 height="100px">
                             <i class="fa fa-eye"></i>
 
                         </a>
                     </div>
                     <div class="col-lg-3 col-md-6">
-                        <a data-fancybox="gallery" href="assets/images/portfolio/illustration/6.webp" tabindex="0"
+                        <a data-fancybox="gallery" href="book-illustrations/assets/images/portfolio/illustration/6.webp" tabindex="0"
                             class="portfolio">
-                            <img src="assets/images/portfolio/illustration/6.webp" alt="" loading="lazy" width="100px"
+                            <img src="book-illustrations/assets/images/portfolio/illustration/6.webp" alt="" loading="lazy" width="100px"
                                 height="100px">
                             <i class="fa fa-eye"></i>
 
                         </a>
                     </div>
                     <div class="col-lg-3 col-md-6">
-                        <a data-fancybox="gallery" href="assets/images/portfolio/illustration/7.webp" tabindex="0"
+                        <a data-fancybox="gallery" href="book-illustrations/assets/images/portfolio/illustration/7.webp" tabindex="0"
                             class="portfolio">
-                            <img src="assets/images/portfolio/illustration/7.webp" alt="" loading="lazy" width="100px"
+                            <img src="book-illustrations/assets/images/portfolio/illustration/7.webp" alt="" loading="lazy" width="100px"
                                 height="100px">
                             <i class="fa fa-eye"></i>
 
                         </a>
                     </div>
                     <div class="col-lg-3 col-md-6">
-                        <a data-fancybox="gallery" href="assets/images/portfolio/illustration/8.webp" tabindex="0"
+                        <a data-fancybox="gallery" href="book-illustrations/assets/images/portfolio/illustration/8.webp" tabindex="0"
                             class="portfolio">
-                            <img src="assets/images/portfolio/illustration/8.webp" alt="" loading="lazy" width="100px"
+                            <img src="book-illustrations/assets/images/portfolio/illustration/8.webp" alt="" loading="lazy" width="100px"
                                 height="100px">
                             <i class="fa fa-eye"></i>
 
                         </a>
                     </div>
                     <div class="col-lg-3 col-md-6">
-                        <a data-fancybox="gallery" href="assets/images/portfolio/illustration/9.webp" tabindex="0"
+                        <a data-fancybox="gallery" href="book-illustrations/assets/images/portfolio/illustration/9.webp" tabindex="0"
                             class="portfolio">
-                            <img src="assets/images/portfolio/illustration/9.webp" alt="" loading="lazy" width="100px"
+                            <img src="book-illustrations/assets/images/portfolio/illustration/9.webp" alt="" loading="lazy" width="100px"
                                 height="100px">
                             <i class="fa fa-eye"></i>
 
                         </a>
                     </div>
                     <div class="col-lg-3 col-md-6">
-                        <a data-fancybox="gallery" href="assets/images/portfolio/illustration/10.webp" tabindex="0"
+                        <a data-fancybox="gallery" href="book-illustrations/assets/images/portfolio/illustration/10.webp" tabindex="0"
                             class="portfolio">
-                            <img src="assets/images/portfolio/illustration/10.webp" alt="" loading="lazy" width="100px"
+                            <img src="book-illustrations/assets/images/portfolio/illustration/10.webp" alt="" loading="lazy" width="100px"
                                 height="100px">
                             <i class="fa fa-eye"></i>
 
                         </a>
                     </div>
                     <div class="col-lg-3 col-md-6">
-                        <a data-fancybox="gallery" href="assets/images/portfolio/illustration/11.webp" tabindex="0"
+                        <a data-fancybox="gallery" href="book-illustrations/assets/images/portfolio/illustration/11.webp" tabindex="0"
                             class="portfolio">
-                            <img src="assets/images/portfolio/illustration/11.webp" alt="" loading="lazy" width="100px"
+                            <img src="book-illustrations/assets/images/portfolio/illustration/11.webp" alt="" loading="lazy" width="100px"
                                 height="100px">
                             <i class="fa fa-eye"></i>
 
                         </a>
                     </div>
                     <div class="col-lg-3 col-md-6">
-                        <a data-fancybox="gallery" href="assets/images/portfolio/illustration/12.webp" tabindex="0"
+                        <a data-fancybox="gallery" href="book-illustrations/assets/images/portfolio/illustration/12.webp" tabindex="0"
                             class="portfolio">
-                            <img src="assets/images/portfolio/illustration/12.webp" alt="" loading="lazy" width="100px"
+                            <img src="book-illustrations/assets/images/portfolio/illustration/12.webp" alt="" loading="lazy" width="100px"
                                 height="100px">
                             <i class="fa fa-eye"></i>
 
@@ -441,88 +441,88 @@
             <div class="box-4 port-content">
                 <div class="row g-4">
                     <div class="col-lg-3 col-md-6">
-                        <a data-fancybox="gallery" href="assets/images/portfolio/animals/1.webp" tabindex="0"
+                        <a data-fancybox="gallery" href="book-illustrations/assets/images/portfolio/animals/1.webp" tabindex="0"
                             class="portfolio">
-                            <img src="assets/images/portfolio/animals/1.webp" alt="" loading="lazy" width="100px"
+                            <img src="book-illustrations/assets/images/portfolio/animals/1.webp" alt="" loading="lazy" width="100px"
                                 height="100px">
                             <i class="fa fa-eye"></i>
 
                         </a>
                     </div>
                     <div class="col-lg-3 col-md-6">
-                        <a data-fancybox="gallery" href="assets/images/portfolio/animals/2.webp" tabindex="0"
+                        <a data-fancybox="gallery" href="book-illustrations/assets/images/portfolio/animals/2.webp" tabindex="0"
                             class="portfolio">
-                            <img src="assets/images/portfolio/animals/2.webp" alt="" loading="lazy" width="100px"
+                            <img src="book-illustrations/assets/images/portfolio/animals/2.webp" alt="" loading="lazy" width="100px"
                                 height="100px">
                             <i class="fa fa-eye"></i>
 
                         </a>
                     </div>
                     <div class="col-lg-3 col-md-6">
-                        <a data-fancybox="gallery" href="assets/images/portfolio/animals/3.webp" tabindex="0"
+                        <a data-fancybox="gallery" href="book-illustrations/assets/images/portfolio/animals/3.webp" tabindex="0"
                             class="portfolio">
-                            <img src="assets/images/portfolio/animals/3.webp" alt="" loading="lazy" width="100px"
+                            <img src="book-illustrations/assets/images/portfolio/animals/3.webp" alt="" loading="lazy" width="100px"
                                 height="100px">
                             <i class="fa fa-eye"></i>
 
                         </a>
                     </div>
                     <div class="col-lg-3 col-md-6">
-                        <a data-fancybox="gallery" href="assets/images/portfolio/animals/4.webp" tabindex="0"
+                        <a data-fancybox="gallery" href="book-illustrations/assets/images/portfolio/animals/4.webp" tabindex="0"
                             class="portfolio">
-                            <img src="assets/images/portfolio/animals/4.webp" alt="" loading="lazy" width="100px"
+                            <img src="book-illustrations/assets/images/portfolio/animals/4.webp" alt="" loading="lazy" width="100px"
                                 height="100px">
                             <i class="fa fa-eye"></i>
 
                         </a>
                     </div>
                     <div class="col-lg-3 col-md-6">
-                        <a data-fancybox="gallery" href="assets/images/portfolio/animals/5.webp" tabindex="0"
+                        <a data-fancybox="gallery" href="book-illustrations/assets/images/portfolio/animals/5.webp" tabindex="0"
                             class="portfolio">
-                            <img src="assets/images/portfolio/animals/5.webp" alt="" loading="lazy" width="100px"
+                            <img src="book-illustrations/assets/images/portfolio/animals/5.webp" alt="" loading="lazy" width="100px"
                                 height="100px">
                             <i class="fa fa-eye"></i>
 
                         </a>
                     </div>
                     <div class="col-lg-3 col-md-6">
-                        <a data-fancybox="gallery" href="assets/images/portfolio/animals/6.webp" tabindex="0"
+                        <a data-fancybox="gallery" href="book-illustrations/assets/images/portfolio/animals/6.webp" tabindex="0"
                             class="portfolio">
-                            <img src="assets/images/portfolio/animals/6.webp" alt="" loading="lazy" width="100px"
+                            <img src="book-illustrations/assets/images/portfolio/animals/6.webp" alt="" loading="lazy" width="100px"
                                 height="100px">
                             <i class="fa fa-eye"></i>
 
                         </a>
                     </div>
                     <div class="col-lg-3 col-md-6">
-                        <a data-fancybox="gallery" href="assets/images/portfolio/animals/7.webp" tabindex="0"
+                        <a data-fancybox="gallery" href="book-illustrations/assets/images/portfolio/animals/7.webp" tabindex="0"
                             class="portfolio">
-                            <img src="assets/images/portfolio/animals/7.webp" alt="" loading="lazy" width="100px"
+                            <img src="book-illustrations/assets/images/portfolio/animals/7.webp" alt="" loading="lazy" width="100px"
                                 height="100px">
                             <i class="fa fa-eye"></i>
 
                         </a>
                     </div>
                     <div class="col-lg-3 col-md-6">
-                        <a data-fancybox="gallery" href="assets/images/portfolio/animals/8.webp" tabindex="0"
+                        <a data-fancybox="gallery" href="book-illustrations/assets/images/portfolio/animals/8.webp" tabindex="0"
                             class="portfolio">
-                            <img src="assets/images/portfolio/animals/8.webp" alt="" loading="lazy" width="100px"
+                            <img src="book-illustrations/assets/images/portfolio/animals/8.webp" alt="" loading="lazy" width="100px"
                                 height="100px">
                             <i class="fa fa-eye"></i>
 
                         </a>
                     </div>
                     <div class="col-lg-3 col-md-6">
-                        <a data-fancybox="gallery" href="assets/images/portfolio/animals/9.webp" tabindex="0"
+                        <a data-fancybox="gallery" href="book-illustrations/assets/images/portfolio/animals/9.webp" tabindex="0"
                             class="portfolio">
-                            <img src="assets/images/portfolio/animals/9.webp" alt="" loading="lazy" width="100px"
+                            <img src="book-illustrations/assets/images/portfolio/animals/9.webp" alt="" loading="lazy" width="100px"
                                 height="100px">
                             <i class="fa fa-eye"></i>
 
                         </a>
                     </div>
                     <div class="col-lg-3 col-md-6">
-                        <a data-fancybox="gallery" href="assets/images/portfolio/animals/10.webp" tabindex="0"
+                        <a data-fancybox="gallery" href="book-illustrations/assets/images/portfolio/animals/10.webp" tabindex="0"
                             class="portfolio">
                             <img src="assets/images/portfolio/animals/10.webp" alt="" loading="lazy" width="100px"
                                 height="100px">
