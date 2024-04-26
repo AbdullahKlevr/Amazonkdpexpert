@@ -22,7 +22,7 @@
                         <h1 class="banner-heading wow animate__bounceInLeft">
                             TRANSLATE YOUR VISION INTO CAPTIVATING ILLUSTRATIONS.
                         </h1>
-                        <img src="assets/images/banner/banner2.webp" alt="" class="wow animate__bounceInRight">
+                        <img src="book-illustrations/assets/images/banner/banner2.webp" alt="" class="wow animate__bounceInRight">
                         <form class="ban-form wow animate__bounceInUp" action="/leads/" method="POST">
                             
                             <div class="row g-4">
@@ -1430,7 +1430,7 @@
                 <div class="col-md-5">
                     <div class="cta-img-side mb-0 wow animate__bounceInRight">
                         <img class="" data-src="assets/images/cta-img-3.webp" alt=""
-                            src="assets/images/cta-img-3.webp">
+                            src="book-illustrations/assets/images/cta-img-3.webp">
                     </div>
                 </div>
             </div>
