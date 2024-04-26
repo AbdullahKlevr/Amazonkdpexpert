@@ -213,7 +213,8 @@
                                         <li>Proofreading and Basic Editing</li>
                                         <li>Upload to 2 Platforms (Amazon KDP and Barnes and Noble) </li>
                                         <li>Dedicated Project Manager</li>
-                                        <li>No Royalties </li>
+                                        <li>100% Royalties </li>
+                                        <li>100% Ownerships </li>
                                     </ul>
                                 </div>
                             </div>
@@ -438,7 +439,7 @@
                 <div class="col-md-7 d-flex align-items-center" >
                     <div class="form_inner">
                         <h2>Eager to Self Publish a book on online platforms?</h2>
-                        <p>Book Writing USA company provides an abundance of services that are going to help you every
+                        <p>Amazon kdp Expert company provides an abundance of services that are going to help you every
                             step of the way. Our services include:</p>
                         <ul>
                             <li><svg class="svg-inline--fa fa-check" aria-hidden="true" focusable="false" data-prefix="fas" data-icon="check" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-fa-i2svg=""><path fill="currentColor" d="M470.6 105.4c12.5 12.5 12.5 32.8 0 45.3l-256 256c-12.5 12.5-32.8 12.5-45.3 0l-128-128c-12.5-12.5-12.5-32.8 0-45.3s32.8-12.5 45.3 0L192 338.7 425.4 105.4c12.5-12.5 32.8-12.5 45.3 0z"></path></svg><!-- <i class="fa-solid fa-check"></i> Font Awesome fontawesome.com --> Ghost Book Writing</li>
