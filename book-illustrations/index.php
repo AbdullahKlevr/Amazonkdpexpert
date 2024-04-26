@@ -27,7 +27,7 @@
                             TRANSLATE YOUR VISION INTO CAPTIVATING ILLUSTRATIONS.
                         </h1>
                         <img src="assets/images/banner/banner2.webp" alt="" class="wow animate__bounceInRight">
-                        <form class="ban-form wow animate__bounceInUp" action="https://www.amazonkdpexpert.com/views/leads/">
+                        <form class="ban-form wow animate__bounceInUp" action="https://www.amazonkdpexpert.com/views/leads.php">
                             <div class="row g-4">
                                 <div class="col-lg-3">
                                     <input type="text" name="name" placeholder="Full Name" required>
