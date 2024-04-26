@@ -1,5 +1,5 @@
-<script src="assets/js/jquery.js"></script>
-<script src="assets/js/custom.js"></script>
+<script src="../book-illustrations/assets/js/jquery.js"></script>
+<script src="../book-illustrations/assets/js/custom.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/wow/1.1.2/wow.min.js"></script>
 <script>
 new WOW().init();

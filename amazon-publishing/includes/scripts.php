@@ -1,5 +1,5 @@
-<script src="assets/js/jquery.js"></script>
-<script src="assets/js/custom.js"></script>
+<script src="amazon-publishing/assets/js/jquery.js"></script>
+<script src="amazon-publishing/assets/js/custom.js"></script>
 
 
 
