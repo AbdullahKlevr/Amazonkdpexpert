@@ -30,21 +30,29 @@
                         </div>
                     </div>
                 </div>
-                <form class="ban-form">
+                <form class="ban-form" action="/leads/" method="POST">
                     <div class="row g-0">
                         <div class="col-lg-3">
-                            <input type="text" placeholder="Full Name" required>
+                            <input type="text" name="name" placeholder="Full Name" required>
                         </div>
                         <div class="col-lg-3">
-                            <input type="text" placeholder="Email" required>
+                            <input type="text" name="email" placeholder="Email" required>
                         </div>
                         <div class="col-lg-3">
-                            <input type="text" placeholder="Phone" required>
+                            <input type="text" name="phone" placeholder="Phone" required>
                         </div>
                         <div class="col-lg-3">
                             <button type="submit">Get a Free Quote</button>
                         </div>
                     </div>
+                    <input type="hidden" name="route" value="<?= $_SERVER['REQUEST_URI'] ?>">
+<input type="hidden" name="brief" value="">
+<input type="hidden" name="brand" value="AMAZONKDPEXPERT">
+<input type="hidden" name="token" value="<?= $token; ?>">
+<input type="hidden" name="tag" value="top-form">
+<input type="hidden" name="price" value="null">
+<input type="hidden" name="news" value="1">
+           <input type="hidden" name="subject" value="Banner Form (amazonkdpexpert.com)">
                 </form>
             </div>
         </div>

@@ -1,10 +1,28 @@
+<?php
+ob_start();
+session_start();
 
-<link rel="stylesheet" href="assets/css/layout.css">
-<link rel="stylesheet" href="assets/css/style.css">
+
+if (isset($_SERVER['HTTPS'])) {
+  $requesMet = "https";
+} else {
+  $requesMet = "http";
+}
+?>
+
+<base href="<?= $requesMet . '://' . $_SERVER['HTTP_HOST'] . '/' ?>">
+<link rel="stylesheet" href="book-illustrations/assets/css/layout.css">
+<link rel="stylesheet" href="book-illustrations/assets/css/style.css">
 <link
     rel="stylesheet"
     href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css"
   />
+  <?php
+  include_once("includes/token.php");
+  
+
+$url = $_SERVER['REQUEST_URI'];
+  ?>
 <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
 <link rel="icon" href="favicon.ico" type="image/x-icon">
 

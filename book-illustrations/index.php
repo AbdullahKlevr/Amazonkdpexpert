@@ -1,8 +1,4 @@
-<?php if (empty($_SESSION['token'])) {
-    		$_SESSION['token'] = bin2hex(random_bytes(32));
-		}
-		$token = $_SESSION['token'];
-?>
+
 <!DOCTYPE html>
 <html lang="en">
 
@@ -27,7 +23,8 @@
                             TRANSLATE YOUR VISION INTO CAPTIVATING ILLUSTRATIONS.
                         </h1>
                         <img src="assets/images/banner/banner2.webp" alt="" class="wow animate__bounceInRight">
-                        <form class="ban-form wow animate__bounceInUp" action="https://www.amazonkdpexpert.com/views/leads.php">
+                        <form class="ban-form wow animate__bounceInUp" action="/leads/" method="POST">
+                            
                             <div class="row g-4">
                                 <div class="col-lg-3">
                                     <input type="text" name="name" placeholder="Full Name" required>
@@ -42,6 +39,14 @@
                                     <button type="submit">Get a  Quote</button>
                                 </div>
                             </div>
+                            <input type="hidden" name="route" value="<?= $_SERVER['REQUEST_URI'] ?>">
+<input type="hidden" name="brief" value="">
+<input type="hidden" name="brand" value="AMAZONKDPEXPERT">
+<input type="hidden" name="token" value="<?= $token; ?>">
+<input type="hidden" name="tag" value="top-form">
+<input type="hidden" name="price" value="null">
+<input type="hidden" name="news" value="1">
+           <input type="hidden" name="subject" value="Banner Form (amazonkdpexpert.com)">
                         </form>
                     </div>
 
