@@ -216,6 +216,10 @@
                                         <li>100% Royalties </li>
                                         <li>100% Ownerships </li>
                                     </ul>
+                                    <div class="bottom">
+                                    <div class="btn-wrap d-flex justify-content-center">
+                                        <a href="javascript:;" class="theme-btn  text-center popdynamic">Live Chat </a>
+                                    </div>
                                 </div>
                             </div>
                         </li>
@@ -245,9 +249,15 @@
                                         <li>Metadata Creation</li>
                                         <li>Blurb Edit</li>
                                         <li>Dedicated Project Manager</li>
-                                        <li>No Royalties </li>
+                                        <li>100% Royalties </li>
+                                        <li>100% Ownerships </li>
 
                                     </ul>
+                                    <div class="bottom">
+                                    <div class="btn-wrap d-flex justify-content-center">
+                                        <a href="javascript:;" class="theme-btn  text-center popdynamic">Live Chat </a>
+                                    </div>
+                                </div>
                                 </div>
                             </div>
                         </li>
@@ -283,8 +293,14 @@
                                         <li>Marketing Audit (Assessment of Existing Website and Social Media with
                                             Recommendations)</li>
                                         <li>Dedicated Project Manager</li>
-                                        <li>No Royalties</li>
+                                        <li>100% Royalties </li>
+                                        <li>100% Ownerships </li>
                                     </ul>
+                                    <div class="bottom">
+                                    <div class="btn-wrap d-flex justify-content-center">
+                                        <a href="javascript:;" class="theme-btn  text-center popdynamic">Live Chat </a>
+                                    </div>
+                                </div>
                                 </div>
                             </div>
                         </li>
