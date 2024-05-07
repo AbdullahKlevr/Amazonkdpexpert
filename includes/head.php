@@ -14,12 +14,6 @@ if (isset($_SERVER['HTTPS'])) {
 <meta name="keywords" content="">
 <meta name="description" content="">
 
-
-
-
-
-
-
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <link rel="icon" href="favicon.png" type="image/x-icon" />
@@ -41,38 +35,11 @@ var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
 (function(){
 var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
 s1.async=true;
-s1.src='https://embed.tawk.to/65fb303c1ec1082f04d97bfd/1hpej8ru8';
+s1.src='https://embed.tawk.to/663a56999a809f19fb2e6194/1ht9u4il0';
 s1.charset='UTF-8';
 s1.setAttribute('crossorigin','*');
 s0.parentNode.insertBefore(s1,s0);
 })();
-
-
-    function setButtonURL() {
-       Tawk_API.toggle()
-    }
-    function toggleChat() {
-       Tawk_API.toggle()
-    }
-
-
-
-
-// $(".liveChat").click(function(){
-//    Tawk_API.toggle();
-// })
-
-
-
-
-window.Tawk_API = window.Tawk_API || {};
-window.Tawk_API.onChatMessageAgent = function(message){
-        window.Tawk_API.maximize();
-
-};
-
-
-
 </script>
 <!--End of Tawk.to Script-->
 <script>
