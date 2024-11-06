@@ -38,7 +38,8 @@ a:focus,a:hover,button:focus,button:hover {
     outline: 0!important;
     text-decoration: none!important;
     transition: auto;
-    color: #6a757d
+    color: #6a757d;
+    cursor:pointer;
 }
 
 .input-control:focus,.input-control:hover {
